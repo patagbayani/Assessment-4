@@ -22,7 +22,7 @@
 * Description: The constructor function initializes the contract with an initial balance set by the deployer.
 * Parameters: initBalance (uint256): Initial balance for the contract.
 * Visibility: Public
-State Mutability: Payable
+* State Mutability: Payable
 #### getBalance()
 * Description: Returns the current balance of the contract.
 * Returns: uint256: Current balance of the contract.
